@@ -1,0 +1,390 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1550296485;s:6:"expire";i:1550382885;s:4:"tags";s:93:"8f3_CAT_P,8f3_BLOCK_HTML,8f3_CAT_P_1,8f3_CAT_P_3,8f3_CAT_P_5,8f3_CAT_P_6,8f3_CAT_P_8,8f3_MAGE";}
+        <div class="block pad-main-product">
+                    <div class="block-title-main">
+                <h2 role="heading" aria-level="2"><span class="grid-title">New Arrivals</span></h2>
+                <div class="title-border"></div>
+            </div>
+                <div style="margin-bottom: 0;float: left;width:100%;" class="block widget block-products-list grid">
+            <div class="block-content">
+                <!-- new_products_content_widget_grid-->                <div class="products-grid grid">
+                    <ol style="margin: 0;" class="product-items widget-product-grid">
+                                                                            <li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://127.0.0.1/m2/mustard-oil.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/m2/pub/media/catalog/product\cache\a90544bc52f002dbe888836e62d74d89\//j/h/jhony.png"
+            width="300"
+            height="375"
+            alt="RedLevel"/></span>
+</span>
+                                    </a>
+                                    <div class="pro-overlay"></div>
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/127.0.0.1\/m2\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9tMi8%2C\/product\/1\/","data":{"product":"1","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/wishlist\/index\/add\/","data":{"product":"1","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Wish List">
+                                                            <span>Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           title="Compare">
+                                                            <span>Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="RedLevel"
+                                           href="http://127.0.0.1/m2/mustard-oil.html"
+                                           class="product-item-link">
+                                            RedLevel                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-1-widget-product-grid"                data-price-amount="108"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">$108.00</span>    </span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">was</span>
+        <span  id="old-price-1-widget-product-grid"                data-price-amount="120"
+        data-price-type="oldPrice"
+        class="price-wrapper ">
+        <span class="price">$120.00</span>    </span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://127.0.0.1/m2/kachi.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/m2/pub/static/version1550296307/frontend/Solwin/freego/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="kachi"/></span>
+</span>
+                                    </a>
+                                    <div class="pro-overlay"></div>
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/127.0.0.1\/m2\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9tMi8%2C\/product\/3\/","data":{"product":"3","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/wishlist\/index\/add\/","data":{"product":"3","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Wish List">
+                                                            <span>Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/catalog\/product_compare\/add\/","data":{"product":"3","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           title="Compare">
+                                                            <span>Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="kachi"
+                                           href="http://127.0.0.1/m2/kachi.html"
+                                           class="product-item-link">
+                                            kachi                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="3">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-3-widget-product-grid"                data-price-amount="108"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">$108.00</span>    </span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">was</span>
+        <span  id="old-price-3-widget-product-grid"                data-price-amount="120"
+        data-price-type="oldPrice"
+        class="price-wrapper ">
+        <span class="price">$120.00</span>    </span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://127.0.0.1/m2/green-pea.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/m2/pub/media/catalog/product\cache\a90544bc52f002dbe888836e62d74d89\//b/_/b_wine_7.jpg"
+            width="300"
+            height="375"
+            alt="green rusk jull"/></span>
+</span>
+                                    </a>
+                                    <div class="pro-overlay"></div>
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                        <button class="action tocart primary"
+                                                                    data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/m2/green-pea.html?options=cart"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/wishlist\/index\/add\/","data":{"product":"5","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Wish List">
+                                                            <span>Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/catalog\/product_compare\/add\/","data":{"product":"5","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           title="Compare">
+                                                            <span>Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="green rusk jull"
+                                           href="http://127.0.0.1/m2/green-pea.html"
+                                           class="product-item-link">
+                                            green rusk jull                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="5">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-5-widget-product-grid"                data-price-amount="108"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">$108.00</span>    </span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">was</span>
+        <span  id="old-price-5-widget-product-grid"                data-price-amount="120"
+        data-price-type="oldPrice"
+        class="price-wrapper ">
+        <span class="price">$120.00</span>    </span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://127.0.0.1/m2/mustard-oill.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/m2/pub/media/catalog/product\cache\a90544bc52f002dbe888836e62d74d89\//b/_/b_wine_5.jpg"
+            width="300"
+            height="375"
+            alt="Jullooo"/></span>
+</span>
+                                    </a>
+                                    <div class="pro-overlay"></div>
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/127.0.0.1\/m2\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9tMi8%2C\/product\/6\/","data":{"product":"6","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/wishlist\/index\/add\/","data":{"product":"6","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Wish List">
+                                                            <span>Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           title="Compare">
+                                                            <span>Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Jullooo"
+                                           href="http://127.0.0.1/m2/mustard-oill.html"
+                                           class="product-item-link">
+                                            Jullooo                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="6">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="108"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">$108.00</span>    </span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">was</span>
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="120"
+        data-price-type="oldPrice"
+        class="price-wrapper ">
+        <span class="price">$120.00</span>    </span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://127.0.0.1/m2/jullooo.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/m2/pub/media/catalog/product\cache\a90544bc52f002dbe888836e62d74d89\//b/_/b_wine_3.jpg"
+            width="300"
+            height="375"
+            alt="denim beer rusk"/></span>
+</span>
+                                    </a>
+                                    <div class="pro-overlay"></div>
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/127.0.0.1\/m2\/checkout\/cart\/add\/uenc\/aHR0cDovLzEyNy4wLjAuMS9tMi8%2C\/product\/8\/","data":{"product":"8","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/wishlist\/index\/add\/","data":{"product":"8","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Wish List">
+                                                            <span>Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/m2\/catalog\/product_compare\/add\/","data":{"product":"8","uenc":"aHR0cDovLzEyNy4wLjAuMS9tMi8,"}}'
+                                                           title="Compare">
+                                                            <span>Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="denim beer rusk"
+                                           href="http://127.0.0.1/m2/jullooo.html"
+                                           class="product-item-link">
+                                            denim beer rusk                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="8">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-8-widget-product-grid"                data-price-amount="108"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">$108.00</span>    </span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">was</span>
+        <span  id="old-price-8-widget-product-grid"                data-price-amount="120"
+        data-price-type="oldPrice"
+        class="price-wrapper ">
+        <span class="price">$120.00</span>    </span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+                            </div>
+        </div>
+    </div>

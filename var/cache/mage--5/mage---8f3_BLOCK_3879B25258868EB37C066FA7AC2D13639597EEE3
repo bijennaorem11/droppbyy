@@ -1,0 +1,11 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1550296484;s:6:"expire";i:1550300084;s:4:"tags";s:81:"8f3_BLOCK_HTML,8f3_CAT_C,8f3_CAT_C_4,8f3_CAT_C_5,8f3_CAT_C_6,8f3_CAT_C_7,8f3_MAGE";}
+
+<nav class="navigation" role="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li class="level0 level-top  active ">
+                <a class="level-top" href="http://127.0.0.1/m2/">
+                    Home
+                </a>
+            </li>
+                <li  class="level0 nav-1 first level-top parent"><a href="http://127.0.0.1/m2/ethnic.html"  class="level-top" ><span>Devices</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 first"><a href="http://127.0.0.1/m2/ethnic/starterkit.html" ><span>StarterKit</span></a></li><li  class="level1 nav-1-2"><a href="http://127.0.0.1/m2/ethnic/devicekit.html" ><span>DeviceKit</span></a></li><li  class="level1 nav-1-3 last"><a href="http://127.0.0.1/m2/ethnic/silverdevicekit.html" ><span>SilverDeviceKit</span></a></li></ul></li><li  class="level0 nav-2 level-top"><a href="http://127.0.0.1/m2/packed-foods.html"  class="level-top" ><span>JULLPODS</span></a></li><li  class="level0 nav-3 level-top"><a href="http://127.0.0.1/m2/assesories.html"  class="level-top" ><span>ASSESOSARIES</span></a></li><li  class="level0 nav-4 level-top"><a href="http://127.0.0.1/m2/bestseller.html"  class="level-top" ><span>We also Offer</span></a></li>    </ul>
+</nav>
